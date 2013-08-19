@@ -1,4 +1,3 @@
 [cmd.exe]
-    gcp=googleChromePortable
+    npp=notepad++ $*
     ls=dir/w
-

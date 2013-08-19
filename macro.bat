@@ -1,2 +1,2 @@
 @echo off
-doskey /macrofile=D:\doskey\macros.txt
+doskey /macrofile="C:\Documents and Settings\XPMUser\My Documents\github\doskey\macros.txt"
